@@ -21,7 +21,7 @@ A modern and responsive password generator built using HTML, CSS, and JavaScript
 
 
 ## 🌐 Live Demo
-
+ https://deepanshi-code.github.io/Password-Generator/
 
 ## 📌 Author
 Made by Deepanshi 💻
